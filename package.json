@@ -1,0 +1,57 @@
+{
+  "name": "district-judiciary-hrms",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": ".",
+  "dependencies": {
+    "@google/genai": "*",
+    "@headlessui/react": "^2.2.9",
+    "@types/react-toastify": "^4.0.2",
+    "axios": "^1.13.2",
+    "lucide-react": "^0.344.0",
+    "npm": "^11.7.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.23.0",
+    "react-toastify": "^11.0.5",
+    "recharts": "^2.12.3",
+    "start": "^5.1.0",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/axios": "^0.9.36",
+    "@types/node": "^16.18.86",
+    "@types/react": "^18.2.61",
+    "@types/react-dom": "^18.2.19",
+    "html-webpack-plugin": "^4.5.2",
+    "react-scripts": "^5.0.1",
+    "typescript": "^4.9.5",
+    "webpack": "^5.104.1",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.2"
+  }
+}
