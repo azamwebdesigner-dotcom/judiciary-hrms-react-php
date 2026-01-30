@@ -42,6 +42,7 @@ This system manages employee records, postings, employment history, leave record
 - VS Code
 
 ---
+
 ---
 
 ## 📸 Screenshots
@@ -135,5 +136,6 @@ This system manages employee records, postings, employment history, leave record
 ![Transfer Employee UI](screenshots/transfer-employee-ui.png)
 
 ---
+
 
 
