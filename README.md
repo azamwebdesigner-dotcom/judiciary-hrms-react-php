@@ -47,92 +47,92 @@ This system manages employee records, postings, employment history, leave record
 ## 📸 Screenshots
 
 ### ➕ Add Action Button
-![Add Action Button](screenshots/add-action-button.png)
+![Add Action Button](screenshorts/add-action-button.png)
 
 ---
 
 ### 📄 Add Documents
-![Add Documents](screenshots/add-documents.png)
+![Add Documents](screenshorts/add-documents.png)
 
 ---
 
 ### 📊 Advance Dashboard
-![Advance Dashboard](screenshots/advance-dashboard.png)
+![Advance Dashboard](screenshorts/advance-dashboard.png)
 
 ---
 
 ### 📊 Advance Dashboard 2
-![Advance Dashboard 2](screenshots/advance-dashboard-2.png)
+![Advance Dashboard 2](screenshorts/advance-dashboard-2.png)
 
 ---
 
 ### 📊 Advance Dashboard 3
-![Advance Dashboard 3](screenshots/advance-dashboard-3.png)
+![Advance Dashboard 3](screenshorts/advance-dashboard-3.png)
 
 ---
 
 ### 📊 Advance Dashboard 4
-![Advance Dashboard 4](screenshots/advance-dashboard-4.png)
+![Advance Dashboard 4](screenshorts/advance-dashboard-4.png)
 
 ---
 
 ### 📊 Advance Dashboard 5
-![Advance Dashboard 5](screenshots/advance-dashboard-5.png)
+![Advance Dashboard 5](screenshorts/advance-dashboard-5.png)
 
 ---
 
 ### 📊 Advance Dashboard 6
-![Advance Dashboard 6](screenshots/advance-dashboard-6.png)
+![Advance Dashboard 6](screenshorts/advance-dashboard-6.png)
 
 ---
 
 ### 🗑️ Delete Action
-![Delete Action](screenshots/delete.png)
+![Delete Action](screenshorts/delete.png)
 
 ---
 
 ### ⚖️ Disciplinary Action UI
-![Disciplinary Action UI](screenshots/disciplinary-action-ui.png)
+![Disciplinary Action UI](screenshorts/disciplinary-action-ui.png)
 
 ---
 
 ### 👥 Employee Directory
-![Employee Directory](screenshots/employee-directory.png)
+![Employee Directory](screenshorts/employee-directory.png)
 
 ---
 
 ### 🔍 Filter Options
-![Filter Options](screenshots/filter-options.png)
+![Filter Options](screenshorts/filter-options.png)
 
 ---
 
 ### 📝 Leave UI
-![Leave UI](screenshots/leave-ui.png)
+![Leave UI](screenshorts/leave-ui.png)
 
 ---
 
 ### 🔐 Login Page
-![Login Page](screenshots/login-page.png)
+![Login Page](screenshorts/login-page.png)
 
 ---
 
 ### 👨‍💼 New Employee Registration
-![New Employee Registration](screenshots/new-employee-registration.png)
+![New Employee Registration](screenshorts/new-employee-registration.png)
 
 ---
 
 ### 👨‍💼 New Employee Registration 1
-![New Employee Registration 1](screenshots/new-employee-registration-1.png)
+![New Employee Registration 1](screenshorts/new-employee-registration-1.png)
 
 ---
 
 ### 👨‍💼 New Employee Registration 2
-![New Employee Registration 2](screenshots/new-employee-registration-2.png)
+![New Employee Registration 2](screenshorts/new-employee-registration-2.png)
 
 ---
 
 ### 🔁 Transfer Employee UI
-![Transfer Employee UI](screenshots/transfer-employee-ui.png)
+![Transfer Employee UI](screenshorts/transfer-employee-ui.png)
 
 ---
 
