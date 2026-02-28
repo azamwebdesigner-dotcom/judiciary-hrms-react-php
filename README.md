@@ -1,139 +1,86 @@
-# 🏛️ Judiciary HRMS — React + PHP
+# 🏛 Judiciary HRMS – React + PHP
 
-A full-stack **Human Resource Management System (HRMS)** designed for judiciary / government offices.
+A production-ready Judiciary Human Resource Management System designed to track employee service history using a timeline-based architecture instead of overwriting records.
 
-This system manages employee records, postings, employment history, leave records, and validations using a **React frontend** and **PHP REST API backend** with **MySQL database**.
+🌐 **Live System:**  
+https://azamdeveloper.com/
+Login credentials
+Select District Multan
+username: demo
+password: demo123
+
+## 🚀 Project Overview
+
+This full-stack HRMS solution is built for judiciary / government office environments where employee transfer history, posting records, and service timelines must be preserved accurately.
+
+Unlike traditional systems that overwrite data, this system stores complete service history as structured events.
 
 ---
 
-## 🚀 Features
+## 🛠 Tech Stack
+
+- ⚛ React (Frontend)
+- 🐘 PHP (REST API Backend)
+- 🗄 MySQL (Relational Database)
+- 🎨 Bootstrap (UI Styling)
+- 🌍 Live Production Deployment
+
+---
+
+## ✨ Core Features
 
 - Employee registration & management
-- Current and previous posting history
-- District / Tehsil based posting logic
-- Court vs Office posting differentiation
+- Current and previous posting timeline
+- District / Tehsil-based posting logic
+- Court vs Office differentiation
 - Dynamic employment history sections
-- Date validations (DOB, posting dates, retirement, etc.)
+- Advanced date validations (DOB, posting, retirement)
 - RESTful API integration
-- Clean and responsive UI
-- Modular and scalable code structure
+- Modular & scalable structure
 
 ---
 
-## 🛠️ Tech Stack
+## 🏗 Architecture Philosophy
 
-### 🎨 Frontend
-- React.js
-- JavaScript (ES6+)
-- Bootstrap
-- Axios
+Most HR systems overwrite employee records.
 
-### ⚙️ Backend
-- PHP (REST API)
-- MySQL
-- Apache (XAMPP)
+This system preserves history.
 
----
+Every transfer, posting, or service change is stored as an event — ensuring:
 
-## 🧰 Tools
+- ✔ Complete historical tracking
+- ✔ No data loss
+- ✔ Audit-friendly structure
+- ✔ Scalable database design
 
-- Git & GitHub
-- phpMyAdmin
-- VS Code
+This event-driven approach reflects real-world government workflows.
 
 ---
+
+## 📂 Project Structure
+
+```
+src/
+public/
+screenshots/
+```
+
 ---
 
 ## 📸 Screenshots
 
-### ➕ Add Action Button
-![Add Action Button](screenshorts/add-action-button.png)
+(Add production dashboard screenshots here)
 
 ---
 
-### 📄 Add Documents
-![Add Documents](screenshorts/add-documents.png)
+## 👨‍💻 Developed By
+
+**Muhammad Azam**  
+Full Stack Developer  
+https://azamdeveloper.com/
 
 ---
 
-### 📊 Advance Dashboard
-![Advance Dashboard](screenshorts/advance-dashboard.png)
+## 📌 Purpose
 
----
-
-### 📊 Advance Dashboard 2
-![Advance Dashboard 2](screenshorts/advance-dashboard-2.png)
-
----
-
-### 📊 Advance Dashboard 3
-![Advance Dashboard 3](screenshorts/advance-dashboard-3.png)
-
----
-
-### 📊 Advance Dashboard 4
-![Advance Dashboard 4](screenshorts/advance-dashboard-4.png)
-
----
-
-### 📊 Advance Dashboard 5
-![Advance Dashboard 5](screenshorts/advance-dashboard-5.png)
-
----
-
-### 📊 Advance Dashboard 6
-![Advance Dashboard 6](screenshorts/advance-dashboard-6.png)
-
----
-
-### 🗑️ Delete Action
-![Delete Action](screenshorts/delete.png)
-
----
-
-### ⚖️ Disciplinary Action UI
-![Disciplinary Action UI](screenshorts/disciplinary-action-ui.png)
-
----
-
-### 👥 Employee Directory
-![Employee Directory](screenshorts/employee-directory.png)
-
----
-
-### 🔍 Filter Options
-![Filter Options](screenshorts/filter-options.png)
-
----
-
-### 📝 Leave UI
-![Leave UI](screenshorts/leave-ui.png)
-
----
-
-### 🔐 Login Page
-![Login Page](screenshorts/login-page.png)
-
----
-
-### 👨‍💼 New Employee Registration
-![New Employee Registration](screenshorts/new-employee-registration.png)
-
----
-
-### 👨‍💼 New Employee Registration 1
-![New Employee Registration 1](screenshorts/new-employee-registration-1.png)
-
----
-
-### 👨‍💼 New Employee Registration 2
-![New Employee Registration 2](screenshorts/new-employee-registration-2.png)
-
----
-
-### 🔁 Transfer Employee UI
-![Transfer Employee UI](screenshorts/transfer-employee-ui.png)
-
----
-
-
+Built to solve real administrative HR tracking problems using scalable and maintainable software architecture.
